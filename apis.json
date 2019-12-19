@@ -1,0 +1,77 @@
+{
+    "name": "OpenCongress",
+    "description": "GitHub brings together the world???s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we???re your all-in-one platform for collaborative development.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/233-opencongress.jpg",
+    "tags": [
+        "have api",
+        "profile",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opencongress\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenCongress",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/233-opencongress.jpg",
+            "humanURL": "http:\/\/edmundsapi-preprod.github.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opencongress-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opencongress-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Authentication",
+            "url": "https:\/\/rebilly.github.io\/RebillyAPI\/#section\/Authentication"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/congress.api.sunlightfoundation.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/OpenCongressCongressGossipBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/github"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/opencongress"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opencongress"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/github"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/poynt.github.io\/developer\/overview\/webhooks.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/edmundsapi-preprod.github.io"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sunlightlabs.github.io\/congress\/index.html"
+        }
+    ]
+}
